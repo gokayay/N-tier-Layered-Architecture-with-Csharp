@@ -1,0 +1,12 @@
+C:\Users\Gökay\source\repos\ntier\NtierLA.Entities\bin\Debug\NtierLA.Entities.dll
+C:\Users\Gökay\source\repos\ntier\NtierLA.Entities\bin\Debug\NtierLA.Entities.pdb
+C:\Users\Gökay\source\repos\ntier\NtierLA.Entities\obj\Debug\NtierLA.Entities.csprojAssemblyReference.cache
+C:\Users\Gökay\source\repos\ntier\NtierLA.Entities\obj\Debug\NtierLA.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gökay\source\repos\ntier\NtierLA.Entities\obj\Debug\NtierLA.Entities.dll
+C:\Users\Gökay\source\repos\ntier\NtierLA.Entities\obj\Debug\NtierLA.Entities.pdb
+C:\Users\Gokay\Desktop\ntier\NtierLA.Entities\bin\Debug\NtierLA.Entities.dll
+C:\Users\Gokay\Desktop\ntier\NtierLA.Entities\bin\Debug\NtierLA.Entities.pdb
+C:\Users\Gokay\Desktop\ntier\NtierLA.Entities\obj\Debug\NtierLA.Entities.csprojAssemblyReference.cache
+C:\Users\Gokay\Desktop\ntier\NtierLA.Entities\obj\Debug\NtierLA.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gokay\Desktop\ntier\NtierLA.Entities\obj\Debug\NtierLA.Entities.dll
+C:\Users\Gokay\Desktop\ntier\NtierLA.Entities\obj\Debug\NtierLA.Entities.pdb
